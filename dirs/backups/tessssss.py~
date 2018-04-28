@@ -1,0 +1,6 @@
+class TestClass:
+    def __init__(self, hello_text):
+        print(hello_text)
+
+    def dupa(self, text):
+        print('to jest tekst' + text)
