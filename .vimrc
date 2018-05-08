@@ -18,6 +18,7 @@ Plugin 'vim-scripts/indentpython.vim' " intendation
 Plugin 'vim-syntastic/syntastic' " error checking 
 Plugin 'nvie/vim-flake8' " error checking F7 
 Plugin 'scrooloose/nerdtree' " file browser
+Plugin 'elixir-editors/vim-elixir'
 "Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 
 " All of your Plugins must be added before the following line
